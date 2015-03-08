@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/joanbarroso/Developer/Jedi/JediApp/app/libs/Parse-1.4.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8daf146aea8cd5245bb90f802f2cd4b8dd855eca">
+        <dex dex="/Users/joanbarroso/Developer/Jedi/JediApp/app/build/intermediates/pre-dexed/debug/Parse-1.4.3-bfa7773a30ce1dfd8fedda7a482afb897f5bd56b.jar" />
+    </item>
+    <item
+        jar="/Users/joanbarroso/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/joanbarroso/Developer/Jedi/JediApp/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-c9beeb35e1739dbd50c5560ddc34cb598033307b.jar" />
+    </item>
+
+</items>
